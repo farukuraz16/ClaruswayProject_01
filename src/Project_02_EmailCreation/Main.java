@@ -1,4 +1,4 @@
-package EmailCreation;
+package Project_02_EmailCreation;
 
 public class Main {
     public static void main(String[] args) {

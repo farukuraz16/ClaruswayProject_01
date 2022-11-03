@@ -1,4 +1,4 @@
-package SalaryCalculation;
+package Project_01_SalaryCalculation;
 
 public class Employee {
 

@@ -1,4 +1,4 @@
-package EmailCreation;
+package Project_02_EmailCreation;
 
 import java.util.Scanner;
 
